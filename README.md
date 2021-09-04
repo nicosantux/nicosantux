@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nico.</h2>
 
-<!--
-**nicosantux/nicosantux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+- 😄 &nbsp; Pronouns: He/Him
+- 🎓 &nbsp; Studying Bachelor Degree in Systems at CAECE University, Buenos Aires, Argentina.
+- 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures.
+- ⭐ &nbsp; Open for project collaboration and internship opportunities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- 💻 &nbsp;  Javascript | Typescript 
+- 🌐 &nbsp; HTML | CSS | React | Node | Express | Styled-Components 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Postman | Figma | Photoshop
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/nicosantuccio/)
+ - Follow me on [Instagram](https://www.instagram.com/nicosantux/)
+
+<br />
+<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
