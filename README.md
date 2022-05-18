@@ -2,10 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 😄 &nbsp; Pronouns: He/Him
-- 🎓 &nbsp; Studying Bachelor Degree in Systems at CAECE University, Buenos Aires, Argentina.
-- 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures.
-- ⭐ &nbsp; Open for project collaboration and internship opportunities. 
+Front-End developer with experience in React and its ecosystem. I'm a proactive person and passionate about what I do. I like to work in a team and I adapt quickly to changes and new challenges.
+
 
 ### 🛠 Tech Stack
 
