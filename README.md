@@ -8,7 +8,7 @@ Front-End developer with experience in React and its ecosystem. I'm a proactive 
 ### 🛠 Tech Stack
 
 - 💻 &nbsp;  Javascript | Typescript 
-- 🌐 &nbsp; HTML | CSS | React | Node | Express | Styled-Components 
+- 🌐 &nbsp; HTML | CSS | React | Nextjs | Node | Express
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman | Figma | Photoshop
 
