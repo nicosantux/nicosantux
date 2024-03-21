@@ -15,7 +15,7 @@ Front-End developer with experience in React and its ecosystem. I'm a proactive 
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/nicosantuccio/)
- - Follow me on [Instagram](https://www.instagram.com/nicosantux/)
+ - Follow me on [Instagram](https://www.instagram.com/santux.tsx/)
 
 <br />
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
